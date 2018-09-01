@@ -1,0 +1,6 @@
+print (2+2)
+print (5-2)
+print (5*3)
+print (13/2)
+print (13//2)
+print (19%7)
